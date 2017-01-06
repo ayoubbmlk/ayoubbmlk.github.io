@@ -20,6 +20,8 @@
         "isScrollToTopButton": false
       }
     },
+    "favicon": "@PROJECT_PATH@/assets/images/cart-128x128.png",
+    "noImageResize": "",
     "versionFirst": "3.10.5",
     "uniqCompNum": 4,
     "versionPublish": "3.10.5"
